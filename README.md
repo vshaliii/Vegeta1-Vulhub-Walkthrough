@@ -160,7 +160,7 @@ ls
 
 ![Vegeta%201%20~Vulnhub%20Walkthrough%20c4c724b3fb9249e38a5da049023cf476/Untitled%2018.png](Vegeta%201%20~Vulnhub%20Walkthrough%20c4c724b3fb9249e38a5da049023cf476/Untitled%2018.png)
 
-Found flag root.txt
+*** Successfully Found flag root.txt
 
 cat root.txt
 
